@@ -1554,10 +1554,7 @@ body {
     transform: scale(0);
   }
 }
-.container * {
-  -webkit-animation-play-state: paused !important;
-  animation-play-state: paused !important;
-} /*# sourceMappingURL=main.css.map */
+ /*# sourceMappingURL=main.css.map */
 .bubbles {
   position: absolute;
   top: 0;
